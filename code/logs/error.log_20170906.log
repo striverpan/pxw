@@ -1,0 +1,17 @@
+2017-09-06 20:16:47 ERROR [main] Test  - this is a error msg
+java.lang.NullPointerException
+	at Test.main(Test.java:15)
+2017-09-06 20:16:47 ERROR [main] Test  - this is a error msg
+java.lang.NullPointerException
+	at Test.main(Test.java:16)
+2017-09-06 20:16:47 ERROR [main] Test  - this is a error msg
+java.lang.NullPointerException
+	at Test.main(Test.java:17)
+2017-09-06 20:17:24 ERROR [main] com.pan.spark.base.RddOperate$  - this is a debug msg
+
+2017-09-06 20:19:56 ERROR [main] com.pan.spark.base.RddOperate$  - this is a debug msg
+
+2017-09-06 20:20:36 ERROR [main] com.pan.spark.base.RddOperate$  - this is a debug msg
+
+2017-09-06 20:22:05 ERROR [main] com.pan.spark.base.RddOperate$  - this is a debug msg
+

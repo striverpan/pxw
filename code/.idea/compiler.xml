@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="java-code" />
+        <module name="scala-code" />
+        <module name="spark-code" />
+        <module name="tool" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="code" target="1.5" />
+      <module name="java-code" target="1.5" />
+      <module name="javacode" target="1.5" />
+      <module name="scala" target="1.5" />
+      <module name="scala-code" target="1.5" />
+      <module name="scalacode" target="1.5" />
+      <module name="spark" target="1.5" />
+      <module name="spark-code" target="1.8" />
+      <module name="test" target="1.5" />
+      <module name="tool" target="1.5" />
+      <module name="webspringboot" target="1.8" />
+      <module name="webspringmvc" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

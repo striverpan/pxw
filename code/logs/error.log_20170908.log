@@ -1,0 +1,84 @@
+2017-09-08 16:11:50 ERROR [Executor task launch worker-2] com.pan.spark.streaming.KafKaDirectStream$  - ssaa
+2017-09-08 16:11:50 ERROR [Executor task launch worker-2] com.pan.spark.streaming.KafKaDirectStream$  - qqaa
+2017-09-08 16:11:50 ERROR [Executor task launch worker-2] com.pan.spark.streaming.KafKaDirectStream$  - qqaa
+2017-09-08 16:11:50 ERROR [Executor task launch worker-2] com.pan.spark.streaming.KafKaDirectStream$  - waa
+2017-09-08 16:11:50 ERROR [Executor task launch worker-2] com.pan.spark.streaming.KafKaDirectStream$  - aaa
+2017-09-08 16:12:00 ERROR [Executor task launch worker-2] com.pan.spark.streaming.KafKaDirectStream$  - boaa
+2017-09-08 16:12:00 ERROR [Executor task launch worker-2] com.pan.spark.streaming.KafKaDirectStream$  - bobaa
+2017-09-08 16:13:40 ERROR [Executor task launch worker-0] com.pan.spark.streaming.KafKaDirectStream$  - aaaa
+2017-09-08 16:13:40 ERROR [Executor task launch worker-0] com.pan.spark.streaming.KafKaDirectStream$  - aaaa
+2017-09-08 16:13:40 ERROR [Executor task launch worker-0] com.pan.spark.streaming.KafKaDirectStream$  - bobaa
+2017-09-08 16:13:40 ERROR [Executor task launch worker-0] com.pan.spark.streaming.KafKaDirectStream$  - xxaa
+2017-09-08 16:13:40 ERROR [Executor task launch worker-0] com.pan.spark.streaming.KafKaDirectStream$  - aaaa
+2017-09-08 16:13:40 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - aaaa
+2017-09-08 16:13:40 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - aaaa
+2017-09-08 16:13:40 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - bobaa
+2017-09-08 16:13:40 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - xxaa
+2017-09-08 16:13:40 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - aaaa
+2017-09-08 16:13:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - aaaa
+2017-09-08 16:13:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - qqaa
+2017-09-08 16:13:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - wwaa
+2017-09-08 16:13:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - ddaa
+2017-09-08 16:13:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - aaaa
+2017-09-08 16:13:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - to,aa
+2017-09-08 16:13:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - tom obaa
+2017-09-08 16:13:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - aa
+2017-09-08 16:13:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - tomaa
+2017-09-08 16:13:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - bobaa
+2017-09-08 16:13:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - aaaa
+2017-09-08 16:13:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - qqaa
+2017-09-08 16:13:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - wwaa
+2017-09-08 16:13:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - ddaa
+2017-09-08 16:13:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - aaaa
+2017-09-08 16:13:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - to,aa
+2017-09-08 16:13:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - tom obaa
+2017-09-08 16:13:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - aa
+2017-09-08 16:13:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - tomaa
+2017-09-08 16:13:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - bobaa
+2017-09-08 16:15:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - Noneaa
+2017-09-08 16:15:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - eexxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2017-09-08 16:15:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - Noneaa
+2017-09-08 16:15:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - eexxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2017-09-08 16:15:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - Noneaa
+2017-09-08 16:15:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - eexxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2017-09-08 16:15:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - Noneaa
+2017-09-08 16:15:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - axxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2017-09-08 16:15:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - Noneaa
+2017-09-08 16:15:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - aaxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2017-09-08 16:15:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - Noneaa
+2017-09-08 16:15:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - axxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2017-09-08 16:15:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - Noneaa
+2017-09-08 16:15:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - axxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2017-09-08 16:15:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - Noneaa
+2017-09-08 16:15:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - axxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2017-09-08 16:15:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - Noneaa
+2017-09-08 16:15:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - axxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2017-09-08 16:15:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - Noneaa
+2017-09-08 16:15:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - axxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2017-09-08 16:15:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - Noneaa
+2017-09-08 16:15:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - bobxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2017-09-08 16:15:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - Noneaa
+2017-09-08 16:15:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - bobxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2017-09-08 16:15:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - Noneaa
+2017-09-08 16:15:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - Noneaa
+2017-09-08 16:15:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - Noneaa
+2017-09-08 16:15:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - Noneaa
+2017-09-08 16:15:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - Noneaa
+2017-09-08 16:15:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - Noneaa
+2017-09-08 16:15:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - Noneaa
+2017-09-08 16:15:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - Noneaa
+2017-09-08 16:15:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - Noneaa
+2017-09-08 16:15:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - Noneaa
+2017-09-08 16:15:50 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - Noneaa
+2017-09-08 16:19:40 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - user 原始 valuenull bob true
+2017-09-08 16:19:40 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - user 原始 valuenull tom false
+2017-09-08 16:19:40 ERROR [Executor task launch worker-1] com.pan.spark.streaming.KafKaDirectStream$  - user 原始 valuenull bob true
+2017-09-08 16:19:40 ERROR [Executor task launch worker-0] com.pan.spark.streaming.KafKaDirectStream$  - user valueNone
+2017-09-08 16:19:40 ERROR [Executor task launch worker-0] com.pan.spark.streaming.KafKaDirectStream$  - userbob true
+2017-09-08 16:19:40 ERROR [Executor task launch worker-0] com.pan.spark.streaming.KafKaDirectStream$  - user valueNone
+2017-09-08 16:19:40 ERROR [Executor task launch worker-0] com.pan.spark.streaming.KafKaDirectStream$  - usertom false
+2017-09-08 16:19:40 ERROR [Executor task launch worker-0] com.pan.spark.streaming.KafKaDirectStream$  - user valueNone
+2017-09-08 16:19:40 ERROR [Executor task launch worker-0] com.pan.spark.streaming.KafKaDirectStream$  - userbob true
+2017-09-08 16:19:40 ERROR [Executor task launch worker-0] com.pan.spark.streaming.KafKaDirectStream$  - user valueNone
+2017-09-08 16:19:40 ERROR [Executor task launch worker-0] com.pan.spark.streaming.KafKaDirectStream$  - user valueNone
+2017-09-08 16:19:40 ERROR [Executor task launch worker-0] com.pan.spark.streaming.KafKaDirectStream$  - user valueNone
